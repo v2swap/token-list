@@ -1,0 +1,48 @@
+{
+  "name": "opBNB",
+  "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/BNB.png",
+  "keywords": [
+    "opBNB",
+    "defi"
+  ],
+  "timestamp": "2023-08-10T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 5611,
+      "address": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E",
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/BNB.png"
+    },
+    {
+      "chainId": 5611,
+      "address": "0x7b3780dA2C42B39AaaaCDeb1930cBCd4077262BA",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/USDT.png"
+    },
+    {
+      "chainId": 5611,
+      "address": "0x35977d0497ee41f16B484b19A57fEc470B295461",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/BUSD.png"
+    },
+    {
+      "chainId": 5611,
+      "address": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/WETH.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
