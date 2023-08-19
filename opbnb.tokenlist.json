@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 204,
-      "address": "0xa457653A7dbe1FdF314e30327D6ec0c5b2CfbD8A",
+      "address": "0x4200000000000000000000000000000000000006",
       "name": "WBNB Token",
       "symbol": "WBNB",
       "decimals": 18,
