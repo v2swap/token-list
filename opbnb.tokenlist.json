@@ -17,19 +17,35 @@
     },
     {
       "chainId": 204,
-      "address": "0x35b5d83761d0c2594c9e52d260ffc2bc07bfe34f",
-      "name": "Fake Tether USD",
-      "symbol": "fakeUSDT",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "name": "Tether USD",
+      "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/USDT.png"
     },
     {
       "chainId": 204,
-      "address": "0xe7f3767a6157b97524c769cf4905eded10cbfe8e",
-      "name": "Fake Binance USD",
-      "symbol": "fakeBUSD",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/BUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/FDUSD.png"
+    },
+    {
+      "chainId": 204,
+      "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/ETH.png"
+    },
+    {
+      "chainId": 204,
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/v2swap/token-list/master/assets/BTCB.png"
     }
   ],
   "version": {
